@@ -1,3 +1,3 @@
 # powstik_2
 
-A new Flutter project.
+An E-commerce application for a startup website. Task was supposed to be done in one day for selection.
